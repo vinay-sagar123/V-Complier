@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\One_piece\Desktop\Myproject\Complier\Complier\main.cpp(209,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\One_piece\Desktop\Myproject\Complier\Complier\main.cpp(80): warning C4715: 'ToString': not all control paths return a value
+  Complier.vcxproj -> C:\Users\One_piece\Desktop\Myproject\Complier\x64\Debug\Complier.exe
